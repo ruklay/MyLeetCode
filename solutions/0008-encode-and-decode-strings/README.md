@@ -1,6 +1,6 @@
 # 8. Encode and Decode Strings
 
-LeetCode Link: https://leetcode.com/accounts/login/?next=/problems/encode-and-decode-strings/
+LeetCode Link: https://leetcode.com/problems/encode-and-decode-strings/
 
 ## Description
 The task involves creating a method to convert a list of strings into a single encoded string and then decoding that string back into the original list, ensuring that the process accurately preserves the content and order of the strings.
